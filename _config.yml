@@ -1,6 +1,6 @@
 # Blog info
 blog_name: Attentiveness
-slogan: Anyone Group
+slogan: Attentiveness Group
 url: http://attentiveness.github.io
 
 # Set avatar (Absolute url and relative url)
@@ -15,10 +15,10 @@ blog_name_font_familiy: calligraffittiregular
 # blog_name_font_familiy: PoiretOne-Regular
 
 # Custom CSS style
-personal_style: /css/forsigner.css
+personal_style: /css/personal-style.css
 
 home:
-  # background_image: /images/bg.jpg
+  background_image: http://7xr0xq.com1.z0.glb.clouddn.com/bg.jpeg
   background_scheme: light # dark、light
 
 
@@ -77,7 +77,7 @@ toolbox:
   text: 盒子
 
 search_slogan:
-  isShow: true # true|fase
+  isShow: false # true|fase
   text: findding
 
 link_slogan:
